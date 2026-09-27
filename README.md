@@ -4,8 +4,7 @@
 ### **Hardware-Software Engineer | Embedded AI, IoT & Computer Vision Specialist**
 
 🎓 **B.Tech in Electronics & Communication Engineering (ECE)**  
-🏛️ **Amrita School of Engineering, Kollam** (Amrita Vishwa Vidyapeetham)  
-📊 **CGPA**: 7.58 | 📅 **Expected Graduation**: May 2028 | 🆔 **Roll**: AM.EN.U4ECE24123  
+🏛️ **Amrita School of Engineering** (Amrita Vishwa Vidyapeetham)  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-joelcabraham06-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joelcabraham06)
