@@ -12,7 +12,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Focus-Embedded%20AI%20%7C%20IoT%20%7C%20Computer%20Vision%20%7C%20Software%20Development-00f0ff?style=for-the-badge" alt="Focus Banner" />
+<img src="https://img.shields.io/badge/Focus-Embedded%20AI%20%7C%20IoT%20%7C%20Computer%20Vision%20%7C%20RF%20Automation-00f0ff?style=for-the-badge" alt="Focus Banner" />
 
 </div>
 
@@ -20,29 +20,34 @@
 
 ## 👋 About Me
 
-I am a **Hardware-Software Engineer** bridging the gap between embedded hardware, real-time edge processing, computer vision, and scalable software systems. My academic and research work centers on **embedded AI, IoT energy monitoring, sensor drift recalibration, and intelligent autonomous systems**.
+I am a **Hardware-Software Engineer** bridging the gap between embedded hardware, real-time edge processing, computer vision, RF electromagnetics automation, and scalable software systems. My academic and research work centers on **embedded AI, RF antenna synthesis, IoT energy monitoring, sensor drift recalibration, and intelligent autonomous systems**.
 
-- 🔭 **Current Focus**: Embedded AI, Edge Vision Accelerators, ESP32 IoT Architectures, Computer Vision (OpenCV/YOLO), and Real-Time Signal Processing.
-- 🔬 **Primary Research**: Time-dependent Gas Sensor Array Drift Compensation & Edge Anomaly Gating Architectures.
-- 🎯 **Career Target**: Embedded AI Engineer / Software Development Engineer (SDE) / Computer Vision Specialist.
+- 🔭 **Current Focus**: Embedded AI, RF Antenna Synthesis, ANSYS HFSS Automation, ESP32 IoT, Computer Vision (OpenCV/YOLO), and Real-Time Signal Processing.
+- 🔬 **Primary Research**: Time-dependent Gas Sensor Array Drift Compensation & RF Surrogate-Assisted Optimization.
+- 🎯 **Career Target**: Embedded AI Engineer / Software Development Engineer (SDE) / RF & Computer Vision Specialist.
 
 ---
 
 ## ⚡ Featured Flagship Projects
 
-### 💊 1. [SmartMedDispenser – ESP32 Smart Medicine Reminder & Dispenser](https://github.com/joelcabraham06/SmartMedDispenser)
+### 📡 1. [AI-Antenna-Designer – AI Automatic Antenna Synthesis & ANSYS HFSS Automation](https://github.com/joelcabraham06/AI-Antenna-Designer)
+> **AI + RF Automation**: Intelligent RF antenna design framework combining Transmission Line Analytical Synthesis, ML Surrogate Modeling (Random Forest), Multi-Objective Genetic Algorithms, and PyAEDT 3D ANSYS HFSS script generation.
+- ⚡ **Performance**: **< 0.05 second optimization** (vs 6+ hours for 100 HFSS FEM iterations), **-24.85 dB Return Loss ($S_{11}$)**, and automated 3D `.aedt` script export (`build_hfss_antenna.py`).
+- 🛠️ **Tech**: Python, ANSYS HFSS, PyAEDT, scikit-learn, Multi-Objective GA, Electromagnetics.
+
+### 💊 2. [SmartMedDispenser – ESP32 Smart Medicine Reminder & Dispenser](https://github.com/joelcabraham06/SmartMedDispenser)
 > **Assistive Healthcare IoT**: Production-grade ESP32 embedded dispenser with RTC time synchronization, PWM servo carousel positioning, IR beam exit chute drop verification, multi-modal alerts, and Blynk/Firebase cloud caregiver monitoring.
 - 🛠️ **Tech**: ESP32, Servo Motor, OLED SSD1306, IR Sensor, RTC DS3231, Blynk, Firebase, C++, Python.
 
-### ⚡ 2. [EdgeDefectAI – Real-Time Edge AI Industrial Defect Detection Engine](https://github.com/joelcabraham06/EdgeDefectAI)
+### ⚡ 3. [EdgeDefectAI – Real-Time Edge AI Industrial Defect Detection Engine](https://github.com/joelcabraham06/EdgeDefectAI)
 > **Novel Architecture**: Hybrid-DynaGated Dual-Stream Edge Architecture (HD-DSEA) combining supervised YOLOv8 detection with unsupervised reconstruction-residual autoencoders for zero-shot manufacturing defect detection on Edge Hardware (NVIDIA Jetson).
 - 🛠️ **Tech**: Python, YOLOv8-Lite, Autoencoders, TensorRT Optimization, GPIO Hardware Triggers.
 
-### 🐺 3. [HowlAI – Intelligent Node.js & Express AI Gateway](https://github.com/joelcabraham06/HowlAI)
+### 🐺 4. [HowlAI – Intelligent Node.js & Express AI Gateway](https://github.com/joelcabraham06/HowlAI)
 > **Scalable Microservice**: High-performance Node.js & Express API Gateway integrated with Google Gemini API, security middleware (Helmet/CORS/RateLimiter), and interactive Web API Playground.
 - 🛠️ **Tech**: Node.js, Express, Google Gemini API, REST APIs, Jest, Morgan.
 
-### 🔌 4. Smart Grid Power & Energy Management System
+### 🔌 5. Smart Grid Power & Energy Management System
 > **IoT Energy Analytics**: Real-time AC voltage/current measurement (ZMPT101B + ACS712), automated relay surge protection, and Blynk/Firebase cloud telemetry.
 - 🛠️ **Tech**: ESP32, Sensors, Relays, Blynk IoT, Firebase, C++, Node.js.
 
@@ -66,6 +71,7 @@ I am a **Hardware-Software Engineer** bridging the gap between embedded hardware
 
 | Category | Skills & Technologies |
 |---|---|
+| **RF & Electromagnetics** | ANSYS HFSS / AEDT, PyAEDT Automation, S-Parameters ($S_{11}$), VSWR, Transmission Line Synthesis |
 | **Embedded & IoT** | ESP32, Arduino UNO, NodeMCU, FreeRTOS, ZMPT101B, ACS712, MQ-2, Relays, Blynk, Firebase, ThingSpeak |
 | **Edge AI & Vision** | YOLOv8, TensorRT, Autoencoders, Anomaly Detection, OpenCV, TensorFlow/Keras, scikit-learn |
 | **Programming** | C++, Python, JavaScript (Node.js/Express), C, SQL, MATLAB |
