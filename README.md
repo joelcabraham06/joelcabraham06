@@ -30,17 +30,19 @@ I am a **Hardware-Software Engineer** bridging the gap between embedded hardware
 
 ## ⚡ Featured Flagship Projects
 
-### ⚡ 1. [EdgeDefectAI – Real-Time Edge AI Industrial Defect Detection Engine](https://github.com/joelcabraham06/EdgeDefectAI)
-> **Novel Architecture**: Hybrid-DynaGated Dual-Stream Edge Architecture (HD-DSEA) combining supervised YOLOv8 detection with unsupervised reconstruction-residual autoencoders for zero-shot manufacturing defect detection on Edge Hardware (NVIDIA Jetson).
+### 💊 1. [SmartMedDispenser – ESP32 Smart Medicine Reminder & Dispenser](https://github.com/joelcabraham06/SmartMedDispenser)
+> **Assistive Healthcare IoT**: Production-grade ESP32 embedded dispenser with RTC time synchronization, PWM servo carousel positioning, IR beam exit chute drop verification, multi-modal alerts, and Blynk/Firebase cloud caregiver monitoring.
+- 🛠️ **Tech**: ESP32, Servo Motor, OLED SSD1306, IR Sensor, RTC DS3231, Blynk, Firebase, C++, Python.
 
-- 🚀 **Performance**: **45+ FPS Throughput**, **58% Reduced Edge Energy**, and **100% Zero-Shot Anomaly Recall**.
+### ⚡ 2. [EdgeDefectAI – Real-Time Edge AI Industrial Defect Detection Engine](https://github.com/joelcabraham06/EdgeDefectAI)
+> **Novel Architecture**: Hybrid-DynaGated Dual-Stream Edge Architecture (HD-DSEA) combining supervised YOLOv8 detection with unsupervised reconstruction-residual autoencoders for zero-shot manufacturing defect detection on Edge Hardware (NVIDIA Jetson).
 - 🛠️ **Tech**: Python, YOLOv8-Lite, Autoencoders, TensorRT Optimization, GPIO Hardware Triggers.
 
-### 🐺 2. [HowlAI – Intelligent Node.js & Express AI Gateway](https://github.com/joelcabraham06/HowlAI)
+### 🐺 3. [HowlAI – Intelligent Node.js & Express AI Gateway](https://github.com/joelcabraham06/HowlAI)
 > **Scalable Microservice**: High-performance Node.js & Express API Gateway integrated with Google Gemini API, security middleware (Helmet/CORS/RateLimiter), and interactive Web API Playground.
 - 🛠️ **Tech**: Node.js, Express, Google Gemini API, REST APIs, Jest, Morgan.
 
-### 🔌 3. Smart Grid Power & Energy Management System
+### 🔌 4. Smart Grid Power & Energy Management System
 > **IoT Energy Analytics**: Real-time AC voltage/current measurement (ZMPT101B + ACS712), automated relay surge protection, and Blynk/Firebase cloud telemetry.
 - 🛠️ **Tech**: ESP32, Sensors, Relays, Blynk IoT, Firebase, C++, Node.js.
 
