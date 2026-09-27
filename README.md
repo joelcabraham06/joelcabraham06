@@ -36,7 +36,11 @@ I am a **Hardware-Software Engineer** bridging the gap between embedded hardware
 - 🚀 **Performance**: **45+ FPS Throughput**, **58% Reduced Edge Energy**, and **100% Zero-Shot Anomaly Recall**.
 - 🛠️ **Tech**: Python, YOLOv8-Lite, Autoencoders, TensorRT Optimization, GPIO Hardware Triggers.
 
-### 🔌 2. Smart Grid Power & Energy Management System
+### 🐺 2. [HowlAI – Intelligent Node.js & Express AI Gateway](https://github.com/joelcabraham06/HowlAI)
+> **Scalable Microservice**: High-performance Node.js & Express API Gateway integrated with Google Gemini API, security middleware (Helmet/CORS/RateLimiter), and interactive Web API Playground.
+- 🛠️ **Tech**: Node.js, Express, Google Gemini API, REST APIs, Jest, Morgan.
+
+### 🔌 3. Smart Grid Power & Energy Management System
 > **IoT Energy Analytics**: Real-time AC voltage/current measurement (ZMPT101B + ACS712), automated relay surge protection, and Blynk/Firebase cloud telemetry.
 - 🛠️ **Tech**: ESP32, Sensors, Relays, Blynk IoT, Firebase, C++, Node.js.
 
